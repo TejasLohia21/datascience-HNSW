@@ -5,7 +5,7 @@ import os
 # ============ Settings ============
 GLOVE_PATH = "./data/glove.6B/glove.6b.50d.txt"
 SEED = 42
-SPLIT_RATIO = 0.8
+SPLIT_RATIO = 0.75
 OUTPUT_DIR = "./data/glove_6b_50d_split"
 
 
